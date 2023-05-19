@@ -1,0 +1,15 @@
+#main-title {
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.main-list {
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+.main {
+    background-color: black;
+}
