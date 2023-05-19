@@ -1,0 +1,19 @@
+.r-main {
+    background-color: black;
+    color: white;
+}
+
+#r-title{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.l-title{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pic {
+    height: auto;
+    width: auto;
+}
